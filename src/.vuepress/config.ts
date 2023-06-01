@@ -5,7 +5,7 @@ import theme from './theme.js';
 import pkg from '../../package.json';
 
 export default defineUserConfig({
-  base: "/",
+  base: "/vuepress2-myblog/",
   dest: 'dist',
   host: '0.0.0.0',
   port: 9451,

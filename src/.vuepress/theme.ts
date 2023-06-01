@@ -4,7 +4,7 @@ import { enSidebar } from './sidebar/index.js';
 
 const footerICP_HTML = `
 <a class="footer-icp" href="https://beian.miit.gov.cn" target="_blank">
-  <img src="/img/beian.png">
+  <img src="https://i.postimg.cc/MGDY8yT3/beian.png">
   粤ICP备2023032935号-1
 </a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="footer-about" href="/intro">关于我的故事</a>`;
 
@@ -14,7 +14,7 @@ export default hopeTheme({
   author: {
     name: 'XXXWeii',
     url: 'https://github.com/XXXWeii/vuepress2-myblog',
-    email: '977020546@qq.com',
+    email: 'zjw977020546@gmail.com',
   },
   repo: 'https://github.com/XXXWeii/vuepress2-myblog',
   logo: '/logo.jpg',
