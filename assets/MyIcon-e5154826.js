@@ -1,0 +1,1 @@
+import{g as e,Z as o,$ as s,a5 as a,_}from"./framework-6065462a.js";const c=e({__name:"MyIcon",props:{name:{},spin:{type:Boolean}},setup(p){return(n,t)=>(o(),s("span",a({class:["iconfont icon",[`icon-${n.name}`]]},n.spin?{"data-spin":""}:{}),null,16))}});const i=_(c,[["__file","MyIcon.vue"]]);export{i as default};

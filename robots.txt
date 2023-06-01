@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://github.com/XXXWeii/vuepress2-myblog/vuepress2-myblog/sitemap.xml
