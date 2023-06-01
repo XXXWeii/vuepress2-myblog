@@ -1,1 +1,14 @@
-export const data = JSON.parse("{\"key\":\"v-8daa1a0e\",\"path\":\"/\",\"title\":\"主页\",\"lang\":\"zh-CN\",\"frontmatter\":{\"home\":true,\"layout\":\"BlogHome\",\"icon\":\"home\",\"title\":\"主页\",\"heroImage\":\"/logo.jpg\",\"heroText\":\"Normal No More!\",\"tagline\":\"Welcome to zjw's Blog\",\"heroFullScreen\":true,\"footer\":true,\"description\":\"\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://github.com/XXXWeii/vuepress2-myblog/vuepress2-myblog/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"XXXWeii\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"主页\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"website\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2023-06-01T12:51:48.000Z\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2023-06-01T12:51:48.000Z\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"WebPage\\\",\\\"name\\\":\\\"主页\\\"}\"]]},\"headers\":[],\"git\":{\"createdTime\":1685623908000,\"updatedTime\":1685623908000,\"contributors\":[{\"name\":\"zjw977020546\",\"email\":\"11487928+zjw977020546@user.noreply.gitee.com\",\"commits\":1}]},\"readingTime\":{\"minutes\":0.08,\"words\":25},\"filePathRelative\":\"README.md\",\"localizedDate\":\"2023年6月1日\",\"excerpt\":\"\",\"autoDesc\":true}")
+export const data = JSON.parse("{\"key\":\"v-8daa1a0e\",\"path\":\"/\",\"title\":\"主页\",\"lang\":\"zh-CN\",\"frontmatter\":{\"home\":true,\"layout\":\"BlogHome\",\"icon\":\"home\",\"title\":\"主页\",\"heroImage\":\"/logo.jpg\",\"heroText\":\"Normal No More!\",\"tagline\":\"Welcome to zjw's Blog\",\"heroFullScreen\":true,\"footer\":true,\"description\":\"\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://github.com/XXXWeii/vuepress2-myblog/vuepress2-myblog/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"XXXWeii\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"主页\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"website\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"WebPage\\\",\\\"name\\\":\\\"主页\\\"}\"]]},\"headers\":[],\"readingTime\":{\"minutes\":0.08,\"words\":25},\"filePathRelative\":\"README.md\",\"excerpt\":\"\",\"autoDesc\":true}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

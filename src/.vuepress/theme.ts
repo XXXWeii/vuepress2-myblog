@@ -4,7 +4,7 @@ import { enSidebar } from './sidebar/index.js';
 
 const footerICP_HTML = `
 <a class="footer-icp" href="https://beian.miit.gov.cn" target="_blank">
-  <img src="https://i.postimg.cc/MGDY8yT3/beian.png">
+  <img src="/vuepress2-myblog/img/beian.png">
   粤ICP备2023032935号-1
 </a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="footer-about" href="/intro">关于我的故事</a>`;
 
@@ -40,8 +40,8 @@ export default hopeTheme({
       Twitter: "https://twitter.com/zjw977020546",
       Facebook: "https://www.facebook.com/QQ977020546",
       Gmail: "mailto:zjw977020546@gmail.com",
-      Wechat: "https://www.zhangshuqi.com/images/WeChat.jpg",
-      QQ: "https://www.zhangshuqi.com/images/QQ.jpg",
+      Wechat: " /vuepress2-myblog/img/Wechat.jpg",
+      QQ: "/vuepress2-myblog/img/QQ.jpg",
     },
   },
 
