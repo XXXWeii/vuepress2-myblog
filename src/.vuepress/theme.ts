@@ -23,6 +23,12 @@ export default hopeTheme({
   iconAssets: "iconfont",
   editLink: false,
   fullscreen: true,
+  // 主题色
+  themeColor: {
+    red: '#e493d0',
+    green: '#3eaf7c',
+    orange: '#fb9b5f',
+  },
 
   pageInfo: ['Author', 'Category', 'Date', 'Original', 'Tag', 'ReadingTime', 'Word', 'PageView'],
 

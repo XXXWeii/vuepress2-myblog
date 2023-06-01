@@ -1,6 +1,5 @@
 const basePath = '//file.mo7.cc/music/';
 
-
 interface GetMusicOptions {
   name: string;
   artist: string;
