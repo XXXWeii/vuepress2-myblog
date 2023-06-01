@@ -1,7 +1,3 @@
-# 个人博客
-
-https://blog.mo7.cc
-
 博客源码，基于 `VuePress Theme Hope` 搭建
 
 ## 博客框架
@@ -20,12 +16,6 @@ https://mrhope.site/
 
 文档\
 https://waline.js.org
-
-服务地址\
-https://talk.mo7.cc
-
-管理后台(Github 登录)
-https://talk.mo7.cc/ui
 
 ## 运行
 
